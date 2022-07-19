@@ -1,3 +1,3 @@
 # Quarkus Commons
 
-This project is a collection of common components, beans and other objects to use during the development with **Quarkus Framework** 
+This project is a collection of classes, interfaces, beans and other objects used during the development with **Quarkus Framework**.
